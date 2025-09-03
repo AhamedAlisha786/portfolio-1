@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@radix-ui/react-tooltip": "^1.2.7",
